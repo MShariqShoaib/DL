@@ -102,6 +102,9 @@ was used to get accurate lesion segmentation. Further related work resulted
 in Dense Generative Adversarial Network(DGAN)
 Precision by this proposed method was as high up to 0.94.
 
+## Framework
+Tensorflow Keras, Numpy, Matplotlib and other  dependencies
+
 ## Methodology
 ### 1 Pre-processing
 Due to the limitation of hardware resources, and time, No preprocessing was
