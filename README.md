@@ -18,6 +18,7 @@ If these phases are done well before time and I’ll be comparing other research
 Dataset Source:
 https://www.kaggle.com/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset
 Keywords: Image Processing; Medical Image Analysis; Covid-19; CT Scan; Lesion; Segmentation; Ground Truth;
+
 APEER - Labeling tool
 Code Help Source: https://github.com/bnsreenu/python_for_image_processing_APEER/blob/master/tutorial117_building_unet_using_encoder_decoder_blocks.ipynb
 
