@@ -121,4 +121,4 @@ Intersection over union IoU has been used as the evaluation metric. And for trai
 
 ##  Results
 Data was divided into 80 percent training and 20 percent testing and by UNet
-with attention model we achieved IoU of 0.60990273 on the pixel based resulting in form of mask. Predicted masks are attached in the PDF report attached
+with attention model we achieved IoU of 0.60990273 on the pixel based resulting in form of mask. Predicted masks are attached in the PDF report attached(DL_Project_MSCSF21M507.pdf) in current directory.
