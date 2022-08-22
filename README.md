@@ -107,7 +107,10 @@ in Dense Generative Adversarial Network(DGAN)
 Precision by this proposed method was as high up to 0.94.
 
 ## Framework
-Tensorflow Keras, Numpy, Matplotlib and other  dependencies
+Tensorflow Keras, Numpy, Matplotlib and other  dependencies you have latest numpy.
+Connect Kernal with Jupyter Notebook and Run :)
+### How to Run?
+Use Anaconda 3 with default environment and make sure 
 
 ## Methodology
 ### 1 Pre-processing
